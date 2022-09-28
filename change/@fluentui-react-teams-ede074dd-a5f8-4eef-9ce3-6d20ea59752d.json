@@ -1,0 +1,7 @@
+{
+  "type": "prerelease",
+  "comment": "Fix Icons. Resolves #116. Resolves #80. Resolves #115.",
+  "packageName": "@fluentui/react-teams",
+  "email": "willshown@microsoft.com",
+  "dependentChangeType": "patch"
+}
